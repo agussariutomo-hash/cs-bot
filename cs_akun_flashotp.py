@@ -45,7 +45,7 @@ last_reply = {}
 
 MAX_HISTORY = 10 # Sedikit dinaikkan agar AI ingat konteks troubleshooting
 COOLDOWN_SECONDS = 5
-GEMINI_MODEL = "gemini-3-flash-live"
+GEMINI_MODEL = "gemini-3-flash"
 
 SYSTEM_PROMPT = """
 Kamu adalah admin customer service resmi FlashOTP.shop, web penjual nomor virtual (nokos).
